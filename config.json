@@ -1,0 +1,12 @@
+{
+ "trading_pair": "ETH/USD",
+ "trade_amount": 50,
+ "strategy": {
+   "buy_threshold": 0.98,
+   "sell_threshold": 1.02
+ },
+ "risk_management": {
+   "stop_loss": 0.95,
+   "take_profit": 1.05
+ }
+}
